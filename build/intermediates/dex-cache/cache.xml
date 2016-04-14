@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\ArcProgress-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\android_github\ArcProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_6d3994cb37f94fba189461865914d51c5fbcb883.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\android_github\ArcProgress-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_3caf9ea0c11adc719a2bd5d438f6db5049894c41.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\android_github\ArcProgress-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_225d2608dd4ecc7e25c6c01d95dfbcfff242214a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ArcProgress-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\android_github\ArcProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_5e308337a1e4f2492e3ba6bd6f3f8aa4e9b05406.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ArcProgress-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\android_github\ArcProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_0dd7cd196e0e70c31aa8799367232ef5d166d940.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ArcProgress-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\android_github\ArcProgress-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_c2efcac521e1caf42683b3e1466cec999e12c6cd.jar" />
+    </item>
+    <item
+        jar="D:\android_github\ArcProgress-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\android_github\ArcProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_ccedbbc816d02a76eeda0154708434f6a2bd8ad3.jar" />
+    </item>
+
+</items>
